@@ -1,2 +1,5 @@
 # pitch_detection
-Pitch Detection Using Auto Correlation Algorithm in ATMega328p 
+
+every thing you need is in main.c with clear comments
+
+you can use the main.c file in your project wothout any problem
